@@ -1,0 +1,39 @@
+ This file echos the data read from micron.dat  
+
+ Insrument information:
+
+ position   Instrument name   Number of channels   Number of parameters
+
+    1           UCNC                 400                   0
+
+
+ List of parameter names:
+
+
+
+ Machine precision          =  0.000D+00
+ Smallest positive number   =  0.000D+00
+ Largest  positive number   = -0.100D+01
+ Default output unit number =    6
+
+
+
+
+ Lower diameter limit =  0.100D-02
+ Upper diameter limit =  0.110D+02
+
+
+ Number of successive failures before termination:     5
+
+
+ Message levels:
+ msgech =     20
+ msglog =     40
+ msgout =    100
+ msgplt =      0
+ msgscr =     30
+
+
+ Smoothing parameter defined by CGCV  .
+
+

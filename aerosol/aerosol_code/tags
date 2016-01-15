@@ -1,0 +1,117 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+CASE_CNT	cplus/common.h	15;"	d
+CASE_NAME_LEN	cplus/common.h	14;"	d
+COUNT_AX	cplus/common.h	10;"	d
+COUNT_W	cplus/common.h	11;"	d
+INPUT_CASE_COUNT	cplus/common.h	12;"	d
+MAX_CNT_LINE	cplus/common.h	13;"	d
+STEP	cplus/common.h	16;"	d
+a	cplus/dataproc.h	/^	float a[60];$/;"	m	class:dataproc	access:public
+abserr	cplus/dataproc.h	/^	float abserr;$/;"	m	class:dataproc	access:public
+algxba	cplus/dataproc.h	/^	float algxba;$/;"	m	class:dataproc	access:public
+cscnt	cplus/dataproc.h	/^	int cscnt;$/;"	m	class:dataproc	access:public
+dataproc	cplus/dataproc.h	/^class dataproc$/;"	c
+dataproc::a	cplus/dataproc.h	/^	float a[60];$/;"	m	class:dataproc	access:public
+dataproc::abserr	cplus/dataproc.h	/^	float abserr;$/;"	m	class:dataproc	access:public
+dataproc::algxba	cplus/dataproc.h	/^	float algxba;$/;"	m	class:dataproc	access:public
+dataproc::cscnt	cplus/dataproc.h	/^	int cscnt;$/;"	m	class:dataproc	access:public
+dataproc::factor	cplus/dataproc.h	/^	int factor[24];$/;"	m	class:dataproc	access:public
+dataproc::heading	cplus/dataproc.h	/^	float heading[INPUT_CASE_COUNT];$/;"	m	class:dataproc	access:public
+dataproc::icondn	cplus/dataproc.h	/^	int icondn;$/;"	m	class:dataproc	access:public
+dataproc::igdmp1	cplus/dataproc.h	/^	int igdmp1;$/;"	m	class:dataproc	access:public
+dataproc::igdmp2	cplus/dataproc.h	/^	int igdmp2;$/;"	m	class:dataproc	access:public
+dataproc::igrid	cplus/dataproc.h	/^	int igrid;$/;"	m	class:dataproc	access:public
+dataproc::iparm	cplus/dataproc.h	/^	int iparm[INPUT_CASE_COUNT];$/;"	m	class:dataproc	access:public
+dataproc::isetsw	cplus/dataproc.h	/^	int isetsw;$/;"	m	class:dataproc	access:public
+dataproc::isetup	cplus/dataproc.h	/^	int isetup;$/;"	m	class:dataproc	access:public
+dataproc::isplin	cplus/dataproc.h	/^	int isplin;$/;"	m	class:dataproc	access:public
+dataproc::ispswt	cplus/dataproc.h	/^	int ispswt;$/;"	m	class:dataproc	access:public
+dataproc::issflg	cplus/dataproc.h	/^	int issflg;$/;"	m	class:dataproc	access:public
+dataproc::isstat	cplus/dataproc.h	/^	int isstat;$/;"	m	class:dataproc	access:public
+dataproc::iswtch	cplus/dataproc.h	/^	int iswtch;$/;"	m	class:dataproc	access:public
+dataproc::itimdp	cplus/dataproc.h	/^	int itimdp;$/;"	m	class:dataproc	access:public
+dataproc::m_dis	cplus/dataproc.h	/^	float m_dis[COUNT_AX];$/;"	m	class:dataproc	access:public
+dataproc::ncremv	cplus/dataproc.h	/^	int ncremv;$/;"	m	class:dataproc	access:public
+dataproc::ncsorc	cplus/dataproc.h	/^	int ncsorc;$/;"	m	class:dataproc	access:public
+dataproc::ndcls	cplus/dataproc.h	/^	int ndcls[20];$/;"	m	class:dataproc	access:public
+dataproc::ndiscr	cplus/dataproc.h	/^	float ndiscr;$/;"	m	class:dataproc	access:public
+dataproc::ndremv	cplus/dataproc.h	/^	int ndremv;$/;"	m	class:dataproc	access:public
+dataproc::ndsorc	cplus/dataproc.h	/^	int ndsorc;$/;"	m	class:dataproc	access:public
+dataproc::nmulgv	cplus/dataproc.h	/^	float nmulgv;$/;"	m	class:dataproc	access:public
+dataproc::nmulp1	cplus/dataproc.h	/^	int nmulp1;$/;"	m	class:dataproc	access:public
+dataproc::nmulp2	cplus/dataproc.h	/^	int nmulp2;$/;"	m	class:dataproc	access:public
+dataproc::nmxvar	cplus/dataproc.h	/^	float nmxvar;$/;"	m	class:dataproc	access:public
+dataproc::nprnt	cplus/dataproc.h	/^	float nprnt;$/;"	m	class:dataproc	access:public
+dataproc::nptbet	cplus/dataproc.h	/^	int nptbet;$/;"	m	class:dataproc	access:public
+dataproc::nquad2	cplus/dataproc.h	/^	int nquad2;	$/;"	m	class:dataproc	access:public
+dataproc::nquadp	cplus/dataproc.h	/^	int nquadp;$/;"	m	class:dataproc	access:public
+dataproc::nvar	cplus/dataproc.h	/^	int nvar;$/;"	m	class:dataproc	access:public
+dataproc::nvarm1	cplus/dataproc.h	/^	int nvarm1;$/;"	m	class:dataproc	access:public
+dataproc::nvarp1	cplus/dataproc.h	/^	int nvarp1;$/;"	m	class:dataproc	access:public
+dataproc::nvarp2	cplus/dataproc.h	/^	int nvarp2;$/;"	m	class:dataproc	access:public
+dataproc::nvart	cplus/dataproc.h	/^	int nvart;$/;"	m	class:dataproc	access:public
+dataproc::p_size	cplus/dataproc.h	/^	float p_size[COUNT_AX];$/;"	m	class:dataproc	access:public
+dataproc::readCase	cplus/dataproc.cpp	/^void dataproc::readCase(string line)$/;"	f	class:dataproc
+dataproc::readCase	cplus/dataproc.h	/^	void readCase(ifstream* in);$/;"	p	class:dataproc	access:public
+dataproc::readCaseCnt	cplus/dataproc.cpp	/^int dataproc::readCaseCnt(string line)$/;"	f	class:dataproc
+dataproc::readCaseCnt	cplus/dataproc.h	/^	int readCaseCnt(ifstream* in);$/;"	p	class:dataproc	access:public
+dataproc::relerr	cplus/dataproc.h	/^	float relerr;$/;"	m	class:dataproc	access:public
+dataproc::tout	cplus/dataproc.h	/^	float tout[16];$/;"	m	class:dataproc	access:public
+dataproc::w	cplus/dataproc.h	/^	float w[COUNT_W];$/;"	m	class:dataproc	access:public
+dataproc::x	cplus/dataproc.h	/^	float x[60];$/;"	m	class:dataproc	access:public
+dataproc::xa	cplus/dataproc.h	/^	float xa;$/;"	m	class:dataproc	access:public
+dataproc::xb	cplus/dataproc.h	/^	float xb;$/;"	m	class:dataproc	access:public
+dataproc::xboxa	cplus/dataproc.h	/^	float xboxa;$/;"	m	class:dataproc	access:public
+factor	cplus/dataproc.h	/^	int factor[24];$/;"	m	class:dataproc	access:public
+heading	cplus/dataproc.h	/^	float heading[INPUT_CASE_COUNT];$/;"	m	class:dataproc	access:public
+icondn	cplus/dataproc.h	/^	int icondn;$/;"	m	class:dataproc	access:public
+igdmp1	cplus/dataproc.h	/^	int igdmp1;$/;"	m	class:dataproc	access:public
+igdmp2	cplus/dataproc.h	/^	int igdmp2;$/;"	m	class:dataproc	access:public
+igrid	cplus/dataproc.h	/^	int igrid;$/;"	m	class:dataproc	access:public
+iparm	cplus/dataproc.h	/^	int iparm[INPUT_CASE_COUNT];$/;"	m	class:dataproc	access:public
+isetsw	cplus/dataproc.h	/^	int isetsw;$/;"	m	class:dataproc	access:public
+isetup	cplus/dataproc.h	/^	int isetup;$/;"	m	class:dataproc	access:public
+isplin	cplus/dataproc.h	/^	int isplin;$/;"	m	class:dataproc	access:public
+ispswt	cplus/dataproc.h	/^	int ispswt;$/;"	m	class:dataproc	access:public
+issflg	cplus/dataproc.h	/^	int issflg;$/;"	m	class:dataproc	access:public
+isstat	cplus/dataproc.h	/^	int isstat;$/;"	m	class:dataproc	access:public
+iswtch	cplus/dataproc.h	/^	int iswtch;$/;"	m	class:dataproc	access:public
+itimdp	cplus/dataproc.h	/^	int itimdp;$/;"	m	class:dataproc	access:public
+m_dis	cplus/dataproc.h	/^	float m_dis[COUNT_AX];$/;"	m	class:dataproc	access:public
+main	cplus/aerosol.cpp	/^int main()$/;"	f
+ncremv	cplus/dataproc.h	/^	int ncremv;$/;"	m	class:dataproc	access:public
+ncsorc	cplus/dataproc.h	/^	int ncsorc;$/;"	m	class:dataproc	access:public
+ndcls	cplus/dataproc.h	/^	int ndcls[20];$/;"	m	class:dataproc	access:public
+ndiscr	cplus/dataproc.h	/^	float ndiscr;$/;"	m	class:dataproc	access:public
+ndremv	cplus/dataproc.h	/^	int ndremv;$/;"	m	class:dataproc	access:public
+ndsorc	cplus/dataproc.h	/^	int ndsorc;$/;"	m	class:dataproc	access:public
+nmulgv	cplus/dataproc.h	/^	float nmulgv;$/;"	m	class:dataproc	access:public
+nmulp1	cplus/dataproc.h	/^	int nmulp1;$/;"	m	class:dataproc	access:public
+nmulp2	cplus/dataproc.h	/^	int nmulp2;$/;"	m	class:dataproc	access:public
+nmxvar	cplus/dataproc.h	/^	float nmxvar;$/;"	m	class:dataproc	access:public
+nprnt	cplus/dataproc.h	/^	float nprnt;$/;"	m	class:dataproc	access:public
+nptbet	cplus/dataproc.h	/^	int nptbet;$/;"	m	class:dataproc	access:public
+nquad2	cplus/dataproc.h	/^	int nquad2;	$/;"	m	class:dataproc	access:public
+nquadp	cplus/dataproc.h	/^	int nquadp;$/;"	m	class:dataproc	access:public
+nvar	cplus/dataproc.h	/^	int nvar;$/;"	m	class:dataproc	access:public
+nvarm1	cplus/dataproc.h	/^	int nvarm1;$/;"	m	class:dataproc	access:public
+nvarp1	cplus/dataproc.h	/^	int nvarp1;$/;"	m	class:dataproc	access:public
+nvarp2	cplus/dataproc.h	/^	int nvarp2;$/;"	m	class:dataproc	access:public
+nvart	cplus/dataproc.h	/^	int nvart;$/;"	m	class:dataproc	access:public
+p_size	cplus/dataproc.h	/^	float p_size[COUNT_AX];$/;"	m	class:dataproc	access:public
+readCase	cplus/dataproc.cpp	/^void dataproc::readCase(string line)$/;"	f	class:dataproc
+readCase	cplus/dataproc.h	/^	void readCase(ifstream* in);$/;"	p	class:dataproc	access:public
+readCaseCnt	cplus/dataproc.cpp	/^int dataproc::readCaseCnt(string line)$/;"	f	class:dataproc
+readCaseCnt	cplus/dataproc.h	/^	int readCaseCnt(ifstream* in);$/;"	p	class:dataproc	access:public
+relerr	cplus/dataproc.h	/^	float relerr;$/;"	m	class:dataproc	access:public
+tout	cplus/dataproc.h	/^	float tout[16];$/;"	m	class:dataproc	access:public
+w	cplus/dataproc.h	/^	float w[COUNT_W];$/;"	m	class:dataproc	access:public
+x	cplus/dataproc.h	/^	float x[60];$/;"	m	class:dataproc	access:public
+xa	cplus/dataproc.h	/^	float xa;$/;"	m	class:dataproc	access:public
+xb	cplus/dataproc.h	/^	float xb;$/;"	m	class:dataproc	access:public
+xboxa	cplus/dataproc.h	/^	float xboxa;$/;"	m	class:dataproc	access:public

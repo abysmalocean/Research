@@ -1,0 +1,21 @@
+INSTRUMENT 1 = UCNC,number of channels and parameters = 125, 0
+# THE INVERSION INTERVAL IS IN nm
+LARGEST inversion interval = 2.5d0, 1000.0d0
+#
+# OUTPUT MESSAGE LEVELS
+message  level .ech = 0
+message  level .log = 0
+message  level .out = 100
+message  level .plt = 0
+message  level .scr = 100
+smoothing cgcv
+weak = yes
+constrain the sum of the errors 
+# tolerance = 0.85
+
+
+
+
+
+
+

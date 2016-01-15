@@ -1,0 +1,6 @@
+	f77 -O -o ucnc blsub1.f blsub2.f blsub3.f cmin.f   cmsubs.f donec.f  \
+         eissvd.f frstsp.f lssub2.f mcsubs.f \
+         opsubs.f yagm.f   ycam.f   ycnv.f   ycwk.f   ydgn.f   \
+         ydne.f   yerr.f   yfbn.f   yfcn.f   yhsl.f   yinp.f   \
+         instr.f   yisp.f   yker.f   ylib.f   ymic.f   \
+         yosp.f yout.f yscr.f yuti.f rvlam.f info.f loadr.f  lssub1.f

@@ -1,0 +1,39 @@
+/*     ABSTRACT */
+/*         ERXSET IS A COMPANION ROUTINE TO SUBROUTINE ERRCHK. */
+/*         ERXSET ASSIGNS THE VALUES OF NFATAL AND NTRACE RESPECTIVELY */
+/*         TO NF AND NT IN COMMON BLOCK MLBLK0 THEREBY SPECIFYING THE */
+/*         STATE OF THE OPTIONS WHICH CONTROL THE EXECUTION OF ERRCHK. */
+
+/*     DESCRIPTION OF ARGUMENTS */
+/*         BOTH ARGUMENTS ARE INPUT ARGUMENTS OF DATA TYPE INTEGER. */
+/*         NFATAL - IS A FATAL-ERROR / MESSAGE-LIMIT FLAG. A NEGATIVE */
+/*                  VALUE DENOTES THAT DETECTED DIFFICULTIES ARE TO BE */
+/*                  TREATED AS FATAL ERRORS.  NONNEGATIVE MEANS NONFATAL. */
+/*                  A NONNEGATIVE VALUE IS THE MAXIMUM NUMBER OF NONFATAL */
+/*                  WARNING MESSAGES WHICH WILL BE PRINTED BY ERRCHK, */
+/*                  AFTER WHICH NONFATAL MESSAGES WILL NOT BE PRINTED. */
+/*                  (DEFAULT VALUE IS -1.) */
+/*         NTRACE - .GE.1 WILL CAUSE A TRACE-BACK TO BE GIVEN, */
+/*                        IF THIS FEATURE IS IMPLEMENTED ON THIS SYSTEM. */
+/*                  .LE.0 WILL SUPPRESS ANY TRACE-BACK, EXCEPT FOR */
+/*                        CASES WHEN EXECUTION IS TERMINATED. */
+/*                  (DEFAULT VALUE IS 0.) */
+
+/*         *NOTE* -- SOME CALLS TO ERRCHK WILL CAUSE UNCONDITIONAL */
+/*         TERMINATION OF EXECUTION.  ERXSET HAS NO EFFECT ON SUCH CALLS. */
+
+/*     EXAMPLES */
+/*         1. TO PRINT UP TO 100 MESSAGES AS NONFATAL WARNINGS USE */
+/*            CALL ERXSET(100,0) */
+/*         2. TO SUPPRESS ALL MATHLIB WARNING MESSAGES USE */
+/*            CALL ERXSET(0,0) */
+
+
+/* Subroutine */ 
+int erxset_(int *nfatal, int *ntrace)
+{
+    extern /* Subroutine */ int erstgt_(integer *, integer *, integer *);
+    erstgt_(&c__0, nfatal, ntrace);
+    return 0;
+} /* erxset_ */
+
