@@ -1,0 +1,12 @@
+     make
+     copy
+     instrument = ucnc
+#     least squares solution : yes 
+#     plot channel 255 
+#     simulate sim2mic
+#     simulate bim1     
+#     simulate bim2
+#     simulate bim3
+#     simulate bim4
+     invert 101f14
+     invert r1453 
