@@ -1,0 +1,31 @@
+
+
+
+
+                                                    NUMBER OF CASES =  1
+1                                           EXAMPLE NO. 4  ADD GRID POINTS          
+0SMALLEST PARTICLE VOLUME                       0.4190E-20           LARGEST PARTICLE VOLUME                  0.5000E-09
+0RELATIVE INTEGRATION ERROR                   0.1000E-02           ABSOLUTE INTEGRATION ERROR             0.1000E-19
+0TOTAL NUMBER OF GRID POINTS                        20             MAXIMUM NUMBER OF GRID POINTS                25
+0NUMBER OF DISCRETE SIZES                            0             NUMBER OF MULTIPLETS GIVEN                    0
+0NUMBER OF OUTPUT TIMES                              3             SWITCH INTERPOLATION AT OUTPUT NUMBER         0
+0STEADY STATE AT OUTPUT NUMBER                       0             NUMBER OF GRID POINTS GIVEN                   4
+0NUMBER OF INTERPOLATING POINTS                      0             NUMBER OF CONTINUOUS SOURCE TERMS             2
+0NUMBER OF CONTINUOUS REMOVAL TERMS                  2             NUMBER OF DISCRETE SOURCE TERMS               0
+0NUMBER OF DISCRETE REMOVAL TERMS                    0             CONDENSATION (0=NO/1=YES)                     0
+0INITIAL SPLINE INTERPOLATION METHOD NUMBER          0             CALL SETUP BEFORE INTERPOLATING (0=NO/1=YES)  1
+0SPLINE NUMBER FOR SWITCHED METHOD                   0             CALL SETUP FOR SWITCHED METHOD (0=NO/1=YES)   0
+0TIME DEPENDENT COAG./EVAP. COEFFICIENT (0=NO/1=YES) 0             USER SUPPLIED PARAMETER SWITCHES      0 0 0 0 0 0 0 0 0 0
+
+                                                       OUTPUT TIMES
+0NO.       TIME      NO.       TIME      NO.       TIME      NO.       TIME      NO.       TIME      N0.       TIME
+  1    0.0000E+00     2    0.1200E+03     3    0.3000E+03
+
+
+                                                       GRID POINTS
+0NO.       SIZE      NO.       SIZE      NO.       SIZE      NO.       SIZE      NO.       SIZE      N0.       SIZE
+  1    0.4190E-20     2    0.7000E-20     3    0.1000E-19     4    0.2000E-19     5    0.5000E-19     6    0.2321E-18
+  7    0.1077E-17     8    0.5000E-17     9    0.2321E-16    10    0.1077E-15    11    0.5000E-15    12    0.2321E-14
+ 13    0.1077E-13    14    0.5000E-13    15    0.2321E-12    16    0.1077E-11    17    0.5000E-11    18    0.2321E-10
+ 19    0.1077E-09    20    0.5000E-09
+0---BETA ROUTINE IS NOT SYMMETRIC

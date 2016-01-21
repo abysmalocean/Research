@@ -1,0 +1,35 @@
+
+
+
+
+                                                    NUMBER OF CASES =  1
+1                                           EXAMPLE NO. 8  DC GDE WITH SOURCE       
+0SMALLEST PARTICLE VOLUME                       0.6540E-22           LARGEST PARTICLE VOLUME                  0.5240E-12
+0RELATIVE INTEGRATION ERROR                   0.5000E-02           ABSOLUTE INTEGRATION ERROR             0.1000E-24
+0TOTAL NUMBER OF GRID POINTS                        25             MAXIMUM NUMBER OF GRID POINTS                30
+0NUMBER OF DISCRETE SIZES                            5             NUMBER OF MULTIPLETS GIVEN                    2
+0NUMBER OF OUTPUT TIMES                              4             SWITCH INTERPOLATION AT OUTPUT NUMBER         0
+0STEADY STATE AT OUTPUT NUMBER                      -1             NUMBER OF GRID POINTS GIVEN                   2
+0NUMBER OF INTERPOLATING POINTS                      1             NUMBER OF CONTINUOUS SOURCE TERMS             1
+0NUMBER OF CONTINUOUS REMOVAL TERMS                  1             NUMBER OF DISCRETE SOURCE TERMS               2
+0NUMBER OF DISCRETE REMOVAL TERMS                    1             CONDENSATION (0=NO/1=YES)                     0
+0INITIAL SPLINE INTERPOLATION METHOD NUMBER          0             CALL SETUP BEFORE INTERPOLATING (0=NO/1=YES)  1
+0SPLINE NUMBER FOR SWITCHED METHOD                   1             CALL SETUP FOR SWITCHED METHOD (0=NO/1=YES)   0
+0TIME DEPENDENT COAG./EVAP. COEFFICIENT (0=NO/1=YES) 0             USER SUPPLIED PARAMETER SWITCHES      0 1 0 0 0 0 0 0 0 0
+
+                                                       OUTPUT TIMES
+0NO.       TIME      NO.       TIME      NO.       TIME      NO.       TIME      NO.       TIME      N0.       TIME
+  1    0.0000E+00     2    0.1000E+00     3    0.1000E+01     4    0.1000E+02
+
+                                               GRID POINTS AT THE FOLLOWING MULTIPLETS
+       6       8      10
+
+
+                                                       GRID POINTS
+0NO.       SIZE      NO.       SIZE      NO.       SIZE      NO.       SIZE      NO.       SIZE      N0.       SIZE
+  1    0.3924E-21     2    0.5232E-21     3    0.6540E-21     4    0.9000E-21     5    0.1400E-20     6    0.3757E-20
+  7    0.1008E-19     8    0.2705E-19     9    0.7257E-19    10    0.1947E-18    11    0.5225E-18    12    0.1402E-17
+ 13    0.3762E-17    14    0.1009E-16    15    0.2709E-16    16    0.7268E-16    17    0.1950E-15    18    0.5233E-15
+ 19    0.1404E-14    20    0.3767E-14    21    0.1011E-13    22    0.2712E-13    23    0.7278E-13    24    0.1953E-12
+ 25    0.5240E-12
+0---BETA ROUTINE IS NOT SYMMETRIC
